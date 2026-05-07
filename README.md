@@ -179,7 +179,7 @@ redundância tripla + hardware unidirecional + UUID atômico + regionalização 
 
 | Data | Evento |
 |---|---|
-| 2025-05-07 | Concepção inicial do modelo — discussão informal documentada |
+| 2026-05-07 | Concepção inicial do modelo — discussão informal documentada |
 
 ---
 
